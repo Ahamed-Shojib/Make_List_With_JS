@@ -1,0 +1,18 @@
+*{
+    text-decoration: none!important;
+}
+#clear_center {
+    width: 35%;
+    margin: 0 auto;
+}
+
+#row_bg {
+    background-color: #ffffff;
+    box-sizing: border-box;
+    box-shadow: inset;
+    border-radius: 5px;
+    padding: 10px 40px;
+}
+#remove_list{
+    width: 100%;
+}
